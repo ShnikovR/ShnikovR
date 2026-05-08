@@ -1,4 +1,4 @@
-<h2 align="left">Eaí! Sou o Filipe, tenho 20 anos e sou dev front-end.</h2>
+<h2 align="left">Eaí! Sou o Filipe, tenho 20 anos e sou dev python.</h2>
 
 ###
 
