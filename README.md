@@ -83,8 +83,6 @@ Aplicação sob medida desenvolvida para uma cliente do segmento de extensão de
 | **PetCare** | Landing page para clínica veterinária | HTML, CSS, JavaScript |
 | **NetSolutions** | Website institucional com identidade visual premium | HTML, CSS, JavaScript |
 
-> Veja todos os projetos e demos no meu [portfólio online](https://nportfolio-8mfg.onrender.com).
-
 ---
 
 ### Experiência
