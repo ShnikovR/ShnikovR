@@ -21,7 +21,7 @@
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### Tecnologias e Ferramentas
 
 **Frontend**  
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,9 +42,9 @@
 
 ---
 
-### 📂 Projetos em destaque
+### Projetos em destaque
 
-#### 🔧 **Ordix — Gestão de Serviços**
+#### **Ordix — Gestão de Serviços**
 Sistema completo de gestão de Ordens de Serviço, desenvolvido para empresas de manutenção e prestação de serviços.
 
 **Funcionalidades principais:**
@@ -97,9 +97,6 @@ Aplicação sob medida desenvolvida para uma cliente do segmento de extensão de
 ---
 
 <p align="center">
-  <i>“Código limpo é um ato de respeito com quem vai ler no futuro — inclusive você mesmo.”</i>
+  <i>“A vida só pode ser compreendida, olhando-se para trás; mas só pode ser vivida, olhando-se para frente. Søren Kierkegaard.”</i>
 </p>
 
-<p align="center">
-  Feito com ☕ e muita dedicação por <strong>Filipe Breciani</strong>
-</p>
