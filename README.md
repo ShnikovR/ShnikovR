@@ -1,4 +1,4 @@
-<h1 align="center">Olá! Eu sou o Filipe Breciani 👋</h1>
+<h1 align="center">Olá! Eu sou o Filipe Breciani </h1>
 
 <p align="center">
   <strong>Desenvolvedor Full Stack Júnior</strong> | 20 anos | Estudante de Sistemas de Informação
@@ -11,13 +11,13 @@
 
 ---
 
-### 🧑‍💻 Sobre mim
+###  Sobre mim
 
-- 🎓 Estudante de **Sistemas de Informação**
-- 💼 Experiência com desenvolvimento de sistemas comerciais, manutenção de ERP (Delphi) e projetos web completos
-- 🌱 Em constante aprendizado: front-end, back-end, bancos de dados e boas práticas de código
-- 💡 Acredito que código de qualidade não é só funcional — é legível, performático e pensado para quem vai manter o projeto no futuro
-- 🚀 Aberto a oportunidades como **Desenvolvedor Full Stack Júnior**
+- Estudante de **Sistemas de Informação**
+- Experiência com desenvolvimento de sistemas comerciais, manutenção de ERP (Delphi) e projetos web completos
+- Em constante aprendizado: front-end, back-end, bancos de dados e boas práticas de código
+- Acredito que código de qualidade não é só funcional — é legível, performático e pensado para quem vai manter o projeto no futuro
+- Aberto a oportunidades como **Desenvolvedor Full Stack Júnior**
 
 ---
 
@@ -58,7 +58,7 @@ Sistema completo de gestão de Ordens de Serviço, desenvolvido para empresas de
 
 Foco em interface organizada, usabilidade e solução real para o dia a dia da empresa.
 
-#### 💅 **BeautyFlow — Gestão para Extensão de Cílios**
+####  **BeautyFlow — Gestão para Extensão de Cílios**
 Aplicação sob medida desenvolvida para uma cliente do segmento de extensão de cílios.
 
 **O que o sistema oferece:**
@@ -87,7 +87,7 @@ Aplicação sob medida desenvolvida para uma cliente do segmento de extensão de
 
 ---
 
-### 💼 Experiência
+### Experiência
 
 - **Desenvolvimento de sistemas comerciais** — Projetos e soluções sob demanda (web e aplicações comerciais)
 - **Manutenção de ERP em Delphi** — Sistemas legados e comerciais (correções, melhorias e regras de negócio)
@@ -95,11 +95,6 @@ Aplicação sob medida desenvolvida para uma cliente do segmento de extensão de
 
 ---
 
-### 📬 Contato
-
-- 📧 **Email:** [filibebreciane@gmail.com](mailto:filibebreciane@gmail.com)
-- 💼 **LinkedIn:** [filipe-breciani](https://linkedin.com/in/filipe-breciani-37a4963b5)
-- 🌐 **Portfólio:** [nportfolio-8mfg.onrender.com](https://nportfolio-8mfg.onrender.com)
 
 ---
 
