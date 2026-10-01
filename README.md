@@ -9,18 +9,6 @@
   Foco em código limpo, performance e experiências que realmente importam.
 </p>
 
-<p align="center">
-  <a href="https://nportfolio-8mfg.onrender.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfólio-Online-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfólio"/>
-  </a>
-  <a href="https://linkedin.com/in/filipe-breciani-37a4963b5" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:filibebreciane@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-
 ---
 
 ### 🧑‍💻 Sobre mim
